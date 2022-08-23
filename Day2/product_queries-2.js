@@ -228,7 +228,7 @@ db.comapnydrives.insertMany([
 ]);
 
 
----------Queries------------
+// ---------Queries------------
 
 /*Find all the topics and tasks which are thought in the month of October*/
 
